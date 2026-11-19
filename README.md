@@ -1,5 +1,10 @@
 # 💫 About Me:
-I am right now pursuing bca and making emotion detector <br>Also I am finding job where I can learn more about tech world and gain handon experience 
+Hi, I'm Mohammed Shadab, currently pursuing a Bachelor of Computer Applications (BCA) from Shoolini University, Solan, Himachal Pradesh.
+I'm passionate about technology, programming, and artificial intelligence.
+Currently, I'm working on an Emotion Detector project, where I'm exploring practical applications of AI and machine learning.
+I'm looking for an opportunity to gain hands-on experience in a good organization where I can apply my knowledge, develop practical skills, learn from experienced professionals, and explore new technologies.
+As I'm pursuing my BCA through an online learning program, I have the flexibility to dedicate time to practical learning, internships, and professional opportunities alongside my studies.
+I'm always eager to learn, improve my skills, take on new challenges, and grow in the tech industry. 
 
 
 ## 🌐 Socials:
@@ -15,12 +20,6 @@ I am right now pursuing bca and making emotion detector <br>Also I am finding jo
 ---
 [![](https://komarev.com/ghpvc/?username=msd-789&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->## Hi there 👋
-
-<!--
-**msd-789/msd-789** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
